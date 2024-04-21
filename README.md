@@ -22,7 +22,7 @@ To run this prototype, you will need:
 
 Navigate to the `src` directory where the Java source files are located:
 
-```bash
+```
 cd src
 javac Main.java
 ```
